@@ -1,0 +1,31 @@
+category,product,revenue,units,orders
+Electronics,Bluetooth Speaker,232412.87,938,598
+Electronics,USB-C Hub,220600.27,920,592
+Electronics,Smart Watch,213199.42,888,592
+Electronics,Wireless Headphones,208980.37,880,569
+Electronics,Mechanical Keyboard,208865.38,876,585
+Home & Kitchen,Blender,120529.09,758,498
+Home & Kitchen,Cookware Set,116321.88,735,480
+Home & Kitchen,Coffee Maker,112557.57,729,463
+Home & Kitchen,Air Fryer,110651.71,712,470
+Home & Kitchen,Robot Vacuum,99961.26,637,413
+Clothing,Jeans,74049.59,775,506
+Clothing,Jacket,73481.48,751,495
+Clothing,T-Shirt,68324.74,714,480
+Clothing,Hoodie,67691.54,682,447
+Clothing,Sneakers,66656.51,684,453
+Sports,Yoga Mat,61932.77,540,344
+Sports,Resistance Bands,60865.91,538,339
+Sports,Fitness Tracker,58839.0,517,331
+Sports,Running Shoes,56312.909999999996,497,321
+Sports,Dumbbell Set,50172.0,432,294
+Beauty,Electric Trimmer,47566.55,493,316
+Beauty,Makeup Kit,47130.68,507,313
+Beauty,Hair Dryer,46172.72,463,297
+Beauty,Skincare Set,45094.84,466,290
+Beauty,Face Serum,43451.88,458,295
+Books,Business Book,14258.76,391,253
+Books,Technology Book,13941.25,387,235
+Books,Fiction Novel,13830.85,374,231
+Books,Cookbook,13704.68,377,240
+Books,Data Analytics Book,13641.33,391,260
