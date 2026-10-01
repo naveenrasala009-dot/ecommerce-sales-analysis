@@ -95,3 +95,10 @@ This project intentionally uses synthetic data so it can be shared publicly with
 ### Revenue by Product Category
 ![Revenue by Product Category](outputs/category_revenue.png)
 
+### Key Insights
+
+- Electronics generated the highest revenue among all product categories.
+- Books generated the lowest revenue.
+- Monthly revenue remained relatively stable, with noticeable peaks in July, September, and November 2025.
+- The analysis helps identify revenue trends, high-performing categories, and customer purchasing patterns.
+
