@@ -86,3 +86,12 @@ Results will be created in `outputs/`.
 
 ## Portfolio Note
 This project intentionally uses synthetic data so it can be shared publicly without exposing confidential or personally identifiable information.
+
+## Analysis Results
+
+### Monthly Revenue Trend
+![Monthly Revenue Trend](outputs/monthly_revenue.png)
+
+### Revenue by Product Category
+![Revenue by Product Category](outputs/category_revenue.png)
+
