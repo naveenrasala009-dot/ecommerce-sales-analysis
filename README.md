@@ -53,7 +53,7 @@ ecommerce-sales-analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone git@github.com:YOUR_USERNAME/ecommerce-sales-analysis.git
+git clone git@github.com:naveenrasala009-dot/ecommerce-sales-analysis.git
 cd ecommerce-sales-analysis
 ```
 
