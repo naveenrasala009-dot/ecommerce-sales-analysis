@@ -102,3 +102,7 @@ This project intentionally uses synthetic data so it can be shared publicly with
 - Monthly revenue remained relatively stable, with noticeable peaks in July, September, and November 2025.
 - The analysis helps identify revenue trends, high-performing categories, and customer purchasing patterns.
 
+## Power BI Dashboard
+
+![Power BI Dashboard](dashboard/Power_bi_dashboard.png)
+
